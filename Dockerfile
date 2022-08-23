@@ -1,2 +1,2 @@
-FROM sawantakshay667/webserver
+FROM nginx
 ADD . /var/www/html/
